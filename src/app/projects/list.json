@@ -1,1 +1,23 @@
-[]
+[
+	{
+		"name": "图床",
+		"year": 2026,
+		"image": "blob:https://blog.charrider.dpdns.org/1422e57a-3441-4237-96e1-f8fbe4074dae",
+		"url": "https://img.charrider.dpdns.org",
+		"description": "用Cloudflare搭建的图床，存到telegram上 ",
+		"tags": [
+			"image bed",
+			"图床"
+		]
+	},
+	{
+		"name": "个人alist",
+		"year": 2026,
+		"image": "blob:https://blog.charrider.dpdns.org/4ee2d357-94ef-4a1f-862f-3e68f0f2ec65",
+		"url": "https://speedtest.charrider.dpdns.org/",
+		"description": "个人用的，等换电脑了就改成openlist",
+		"tags": [
+			"alist"
+		]
+	}
+]
