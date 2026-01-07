@@ -44,14 +44,14 @@
 		{
 			"id": "github",
 			"type": "github",
-			"value": "https://github.com/h3ddt42",
+			"value": "https://github.com/yysuni",
 			"label": "Github",
 			"order": 2
 		},
 		{
 			"id": "email",
 			"type": "email",
-			"value": "charrider@139.com",
+			"value": "yysuni1001@gmail.com",
 			"label": "",
 			"order": 1
 		}
