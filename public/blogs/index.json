@@ -6,7 +6,7 @@
     "date": "2026-01-13T20:10",
     "summary": "",
     "hidden": false,
-    "category": ""
+    "category": "技术指南"
   },
   {
     "slug": "Origin",
@@ -16,7 +16,7 @@
     "summary": "",
     "cover": "/blogs/Origin/0b86eb030ae5e66b.png",
     "hidden": false,
-    "category": ""
+    "category": "技术指南"
   },
   {
     "slug": "experiment-260107",
@@ -25,7 +25,7 @@
     "date": "2026-01-07T20:43",
     "summary": "",
     "hidden": false,
-    "category": ""
+    "category": "实验日志"
   },
   {
     "slug": "01-07",
@@ -34,7 +34,7 @@
     "date": "2026-01-07T15:24",
     "summary": "之前失误把Typora更新到最新了，才发现不是正版，现在赶忙补救",
     "hidden": false,
-    "category": ""
+    "category": "技术指南"
   },
   {
     "slug": "experiment-260106",
@@ -43,7 +43,7 @@
     "date": "2026-01-06T19:53",
     "summary": "",
     "hidden": false,
-    "category": ""
+    "category": "实验日志"
   },
   {
     "slug": "experiment-251225",
@@ -52,7 +52,7 @@
     "date": "2025-12-25T19:28",
     "summary": "",
     "hidden": false,
-    "category": ""
+    "category": "实验日志"
   },
   {
     "slug": "experiment-251224",
@@ -61,7 +61,7 @@
     "date": "2025-12-24T19:18",
     "summary": "",
     "hidden": false,
-    "category": ""
+    "category": "实验日志"
   },
   {
     "slug": "experiment-251223",
@@ -70,7 +70,7 @@
     "date": "2025-12-23T19:10",
     "summary": "",
     "hidden": false,
-    "category": ""
+    "category": "实验日志"
   },
   {
     "slug": "readme",
@@ -82,7 +82,7 @@
     "summary": "2025-blog-public 项目的使用说明以及注意事项",
     "cover": "/blogs/readme/9532a65cc32ca5eb.png",
     "hidden": false,
-    "category": ""
+    "category": "技术指南"
   },
   {
     "slug": "rewrite-blog-website",
@@ -93,6 +93,6 @@
     "date": "2025-11-11",
     "summary": "这是重构blog网站的第一篇blog，终于把上个网站的blog 内容移动过来了。当然还有其它内容还没弄。",
     "cover": "/blogs/rewrite-blog-website/7ec6838f38c9161e.png",
-    "category": "总结"
+    "category": "技术指南"
   }
 ]
